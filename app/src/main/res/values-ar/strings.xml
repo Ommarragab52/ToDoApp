@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">تطبيق المهام</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_task">اضافة مهمة جديده</string>
+    <string name="enter_task_name">اسم المهمة</string>
+    <string name="enter_task_description">تفاصيل المهمة</string>
+    <string name="select_time">أختر الوقت:</string>
+    <string name="add">اضافة</string>
+    <string name="to_do_list">قائمة المهام</string>
+    <string name="settings">الاعدادت</string>
+    <string name="language">اللغة</string>
+    <string name="english">الانجليزية</string>
+    <string name="mode">الوضع</string>
+    <string name="light">نهار</string>
+    <string-array name="languages_array">
+        <item>الانجلزية</item>
+        <item>العربية</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>نهار</item>
+        <item>ليلي</item>
+    </string-array>
+</resources>
